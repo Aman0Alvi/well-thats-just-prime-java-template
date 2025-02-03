@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/1b9f8489-6b05-431d-9cf3-f87a0caa1d9b)
+![image](https://github.com/user-attachments/assets/e9628238-8c3e-4830-aee0-bb14c53996f1)
+
+
 # Well That's Just Prime (Java)
 
 You can find the instructions for this lab [here](https://morethanequations.com/Computer-Science/Labs/Well-That's-Just-Prime). Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
